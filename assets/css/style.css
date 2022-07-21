@@ -1134,3 +1134,17 @@ section {
         padding-right: 20px 15px;
     }
 }
+
+
+.icon-skill-size{
+    width: 14%; 
+    height:auto;
+}
+
+@media (max-width: 720px) {
+    .icon-skill-size{
+        width: 24%; 
+        height:auto;
+    }
+    
+}
